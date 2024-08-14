@@ -88,6 +88,7 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.11',
     ],
     keywords='speechrecognition asr voiceactivitydetection vad webrtc',
     ext_modules=[module],
